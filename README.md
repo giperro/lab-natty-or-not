@@ -19,6 +19,6 @@ Depois, utilizei a AI Runway para transcrever o texto (com pequenas alterações
 
 ## 🚀 Resultados
 O conteúdo do e-book e o aúdio estarão disponíveis no repositório, e podem ser acessados nos seguintes links:
-- [E-BOOK - Descomplica com o ChatGPT: Sua Arma Secreta para Arrasar no ENEM](/exemplos/ebook-chatgpt.pdf)
-- [Transcrição do e-book para áudio](/lab-natty-or-not/podcast-chatgpt.mp3)
+- [E-BOOK - Descomplica com o ChatGPT: Sua Arma Secreta para Arrasar no ENEM](/exemplos/script_desafio_aigenerativa.pdf)
+- [Transcrição do e-book para áudio](/lab-natty-or-not/text_to_speech_ebook.mp3)
 
