@@ -9,6 +9,7 @@ O objetivo desse projeto é gerar um e-book+podcast explicando o que é o ChatGP
 
 ## 🧐 Processo de Criação
 Primeiro, solicitei ao ChatGPT que criasse o conteúdo do e-book, com o seguinte prompt: 
+
 Crie um ebook abordando os seguintes tópicos na linguagem informal:
 - O que é o ChatGPT?
 - Como a AI por trás do ChatGPT funciona
